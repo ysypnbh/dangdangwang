@@ -1,0 +1,16 @@
+
+.rightbg{background-image:url(image/index-rightbg.jpg)}
+
+.right-menu2{font-size:13px;color:#ffffff;width: 47px; PADDING-TOP: 3px; HEIGHT: 23px;background-image:url(image\right-menu2.gif);text-align:center; text-decoration:none;line-height:15px;}
+.right-menu2:hover{font-size:13px;color:#ffffff;width: 47px; PADDING-TOP: 3px; HEIGHT: 23px;background-image:url(image\right-menu1.gif);text-align:center; text-decoration:none;line-height:15px;}
+.lefttable{border-right:#FFCC99 1px solid;border-left:#ffcc99 1px solid;border-bottom:#ffcc99 1px solid;}
+A{COLOR: #06329b; font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+A:hover {COLOR: #cc0000;  font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+.A2{COLOR: #414141; font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+.a3{color:#c49238;font-size:13px;font-weight:bold;TEXT-DECORATION: none;line-height:20px;}
+.a3:hover{font-weight:bold;font-size:13px;color:#c49238;text-decoration:none;}
+.a4{color:#3399FF;font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+.bg{background-color:#FF9900;font-size:12px;text-align:center;width:34px;height;16px;color:#FFFFFF}
+
+.xs{text-align:center;font-size:14px;padding-top:5px;color:#FFFFFF}
+.xs:hover{text-align:center;font-size:14px;padding-top:5px;color:#FFFFFF}

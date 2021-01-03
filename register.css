@@ -1,0 +1,19 @@
+table{padding:0;margin:0}
+
+BODY {FONT-FAMILY: "宋体", Arial, Helvetica, sans-serif;align:center;COLOR: #414141;font-size:12px;
+}
+td{font-size:12px;line-height:20px;COLOR: #414141;
+   border-width:1px;border-color:#999999;border-style:solid;}
+
+/*注册页面文本框样式、提交按扭样式*/
+
+.A1{font-size:12px;text-decoration:none;color:#0041D3}
+.A1:hover{font-size:12px;text-decoration:none;color:#ff7000;}
+input{border:1 #D3EAF3 solid; font-size:12px;width:160px; height:20px;}
+.submit{border-bottom:1 #cccccc solid;border-right:1 #cccccc solid;border-top:0 #cccccc solid;border-left:0 #cccccc solid; font-size:12px;width:80px; height:25px; padding-top:5px;background-color:#D3EAF3;}
+.td1{text-align:right;background-color:#D3EAF3;}
+.text1{color:#FF0000}
+.text2{color:#FF0000;font-weight:bold;font-size:14px;}
+.text3{font-size:14px;}
+.tdright{border-right-width:0px;}
+.tdleft{border-left-width:0px;}

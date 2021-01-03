@@ -1,0 +1,103 @@
+*{padding:0;margin:0}
+img{border:0}
+BODY {FONT-FAMILY: "宋体", Arial, Helvetica, sans-serif;align:center;COLOR: #414141;font-size:12px;
+}
+td{font-size:12px;line-height:20px;COLOR: #414141;}
+
+
+
+input{vertical-align: middle; font-size:12px}
+.t1 a:link,.t1 a:visited{ color:#0041D3; text-decoration:none}
+.t1 a:hover{ color:#ff7000; text-decoration:none}
+.t1 a:active{ color:#bc2931; text-decoration:none}
+
+
+/*顶部CSS开始*/
+.A1{font-size:12px;text-decoration:none;color:#0041D3}
+.A1:hover{font-size:12px;text-decoration:none;color:#ff7000;}
+.text{font-size:12px;color:#666666;}
+
+.top-menu1{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;
+/*超链接背景*/
+background-image:url(image\top-bg11.jpg);
+text-align:center; text-decoration:none;line-height:20px;}
+
+.top-menu1:hover{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;
+/*鼠标停在超链接上时，超链接背景*/
+background-image:url(image\top-bg12.jpg);
+text-align:center; text-decoration:none;line-height:20px;}
+
+.top-menu2{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-bg21.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+.top-menu2:hover{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-bg22.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+.top-menu3{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-bg31.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+.top-menu3:hover{font-size:13px;color:#ffffff;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-bg32.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+.top-gray{font-size:13px;color:#000000;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-gray.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+.top-gray:hover{font-size:13px;color:#000000;width: 131px; PADDING-TOP: 5px; HEIGHT: 31px;background-image:url(image\top-gray.jpg);text-align:center; text-decoration:none;line-height:20px;}
+
+/*顶部CSS结束*/
+
+/*内页CSS样式表开始*/
+A {
+	COLOR: #06329b; font-size:12px;TEXT-DECORATION: none;line-height:20px;
+}
+A:hover {
+	COLOR: #cc0000;  font-size:12px;TEXT-DECORATION: none;line-height:20px;
+}
+.A2{COLOR: #414141; font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+/*注册页面文本框样式、提交按扭样式*/
+input{border:1 #D3EAF3 solid; font-size:12px;width:160px; height:20px;}
+.submit{border-bottom:1 #cccccc solid;border-right:1 #cccccc solid;border-top:0 #cccccc solid;border-left:0 #cccccc solid; font-size:12px;width:80px; height:25px; padding-top:5px;background-color:#D3EAF3;}
+
+.bold-13{font-size:13px;color:#000000;font-weight:bold;}
+.more{COLOR: #ff7000; font-size:12px;TEXT-DECORATION: none;line-height:20px;}
+.white-12{font-size:12px;color:#FFFFFF;padding-top:5px;}
+.white-13{font-size:13px;color:#FFFFFF;padding-top:5px;}
+.border-lr{border-left:1 #CFC7B2 solid;border-right:1 #CFC7B2 solid;}
+.border-rb{border-bottom:1 #CCCCCC solid;padding-left:10px;}
+.border-rb1{border-bottom:1 #CCCCCC solid;border-right:1 #CCCCCC solid;height:40px; text-align:right;width:180px;background-color:#D3EAF3;font-size:13px;padding-top:5px;}
+.border-lrb{border-bottom:1 #CCCCCC solid;border-right:1 #CCCCCC solid;border-left:1 #CCCCCC solid;padding-left:5px;padding-right:5px;}
+.bottom{font-size:2px;border-bottom:1 #CFC7B2  solid;line-height:3px;}
+.bigtuhuang {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #c49238}
+.bigtuhuang:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #c49238; text-decoration:none}
+.blue {
+	COLOR: #669dc6;FONT-WEIGHT: bold;
+}
+.yellow-bigbold {font-weight: bold;color: #f37114;font-size:13px;line-height:25px;}
+.border-yellow{border:1 #CDCD99 solid;}
+.bold{color:#000000;font-size:13px;FONT-WEIGHT: bold; }
+.font-scroll{width:20px; text-align:center; padding-top:1px;cursor:hand;border:1 #414141 solid; font-size:10px;line-height:12px;}
+.product-border{border-bottom:1 #cccccc  solid;border-left:1 #cccccc  solid;border-right:1 #cccccc solid;}
+.line-middle{text-decoration:line-through;}
+
+/*购物车结算按扭样式、文本框样式*/
+.shopping{background-image:url(balance.gif);width:103px;height:36px;border:0; }
+.input1{border:1 #CCCCCC solid; font-size:12px;width:30px; height:20px;text-align:center;padding-top:3px;}
+/*图片购买按扭样式表*/
+.sale{background-image:url(sale.gif);width:84px;height:24px;border:0; }
+/*登录页面样式表*/
+.login-left{padding:30px 50px 20px 50px;float:left;line-height:22px;width:55%;}
+.login-right{padding-top:20px;padding-right:50px; float:right;margin-bottom:30px;}
+.login-top{BACKGROUND: url(login_top.gif) no-repeat; OVERFLOW: hidden; WIDTH: 279px; HEIGHT: 8px}
+.login-mid{border-right:#7a7977 1px solid;border-left:#7a7977 1px solid; WIDTH: 279px;BACKGROUND-COLOR: #f9f9f9}
+.login-bottom{BACKGROUND: url(login_bottom.gif) no-repeat; OVERFLOW: hidden; WIDTH: 279px; HEIGHT: 8px}
+.notice {text-align:center; FONT-WEIGHT: bold; COLOR: #fa0404; PADDING-TOP: 12px; HEIGHT: 30px}
+.main {
+	BORDER-TOP: #afaba8 1px dashed; MARGIN-LEFT:15px; WIDTH: 250px; BORDER-BOTTOM: #afaba8 1px dashed;
+padding-top:20px;padding-bottom:20px;}
+.login-input{border:1 #cccccc solid; font-size:12px;width:130px; height:20px;}
+.login-submit{border-bottom:1 #cccccc solid;border-right:1 #cccccc solid;border-top:0 #cccccc solid;border-left:0 #cccccc solid; font-size:12px;width:60px; height:24px;padding-top:5px;}
+.login-dl{text-align:center;padding-top:10px;padding-bottom:10px;}
+
+.login-end{padding-left:20px;padding-top:20px;padding-bottom:20px;font-size:13px;font-weight:bold;}
+
+
+
+/*内页CSS样式表结束*/
+
